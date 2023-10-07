@@ -43,7 +43,7 @@ The following software is used for the microcluster:
 
 ## Topology
 
-![Topology](./images/topology.png)
+![Topology](./Images/topology.png)
 
 ## Installation
 
@@ -237,7 +237,7 @@ Paste the content of the k3s.yaml file from the master node.
 kubectl get nodes
 ```
 
-![K3s Cluster](./images/get-nodes.png)
+![K3s Cluster](./Images/get-nodes.png)
 
 ### Helm on Local Machine
 
